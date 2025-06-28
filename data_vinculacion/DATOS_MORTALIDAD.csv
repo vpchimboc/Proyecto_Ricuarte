@@ -1,0 +1,345 @@
+Provincia;Identificador_Canton;Identificador_Parroquia;Zona;Sector;Numero_vivienda;Numero_hogar;Numero_persona_fallecida;Mes_fallecimiento;Año_fallecimiento;Edad_fallecer;Sexo_fallecido;Murio_estando_embarazada_en_el_parto_o_dentro_de_los_42_dias_posteriores_al_parto;Causa_fallecimiento;Area_urbana_o_rural;CANTON;PARROQ;ID_VIV;ID_HOG;ID_FALL
+"Azuay";1;62;999;1;4;1;1;"Julio";2021;88;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990010004;10162999001000401;1016299900100040101
+"Azuay";1;62;999;1;12;1;1;"Noviembre";2022;80;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990010012;10162999001001201;1016299900100120101
+"Azuay";1;62;999;1;36;1;1;"Noviembre";2020;87;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990010036;10162999001003601;1016299900100360101
+"Azuay";1;62;999;1;41;1;1;"Junio";2020;39;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990010041;10162999001004101;1016299900100410101
+"Azuay";1;62;999;2;15;1;1;"Junio";2020;85;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990020015;10162999002001501;1016299900200150101
+"Azuay";1;62;999;2;38;1;1;"Agosto";2020;67;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990020038;10162999002003801;1016299900200380101
+"Azuay";1;62;999;2;80;1;1;"Marzo";2022;79;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990020080;10162999002008001;1016299900200800101
+"Azuay";1;62;999;3;37;1;1;"Febrero";2021;83;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990030037;10162999003003701;1016299900300370101
+"Azuay";1;62;999;3;66;1;1;"Diciembre";2021;92;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990030066;10162999003006601;1016299900300660101
+"Azuay";1;62;999;3;89;1;1;"Julio";2021;85;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990030089;10162999003008901;1016299900300890101
+"Azuay";1;62;999;3;103;1;1;"Septiembre";2020;57;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990030103;10162999003010301;1016299900301030101
+"Azuay";1;62;999;4;14;1;1;"Mayo";2022;84;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990040014;10162999004001401;1016299900400140101
+"Azuay";1;62;999;5;4;1;1;"Julio";2022;59;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990050004;10162999005000401;1016299900500040101
+"Azuay";1;62;999;6;8;1;1;"Marzo";2021;90;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990060008;10162999006000801;1016299900600080101
+"Azuay";1;62;999;7;2;1;1;"Septiembre";2020;86;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990070002;10162999007000201;1016299900700020101
+"Azuay";1;62;999;8;6;1;1;"Febrero";2022;87;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990080006;10162999008000601;1016299900800060101
+"Azuay";1;62;999;8;23;1;1;"Enero";2022;85;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990080023;10162999008002301;1016299900800230101
+"Azuay";1;62;999;8;41;1;1;"Enero";2022;56;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990080041;10162999008004101;1016299900800410101
+"Azuay";1;62;999;8;84;1;1;"Marzo";2022;54;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990080084;10162999008008401;1016299900800840101
+"Azuay";1;62;999;8;86;1;1;"Agosto";2020;999;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990080086;10162999008008601;1016299900800860101
+"Azuay";1;62;999;9;22;1;1;"Agosto";2022;37;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990090022;10162999009002201;1016299900900220101
+"Azuay";1;62;999;9;36;1;1;"Noviembre";2020;93;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990090036;10162999009003601;1016299900900360101
+"Azuay";1;62;999;10;32;1;1;"Junio";2022;94;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990100032;10162999010003201;1016299901000320101
+"Azuay";1;62;999;10;59;1;1;"Septiembre";2021;97;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990100059;10162999010005901;1016299901000590101
+"Azuay";1;62;999;10;73;1;1;"Junio";2022;86;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990100073;10162999010007301;1016299901000730101
+"Azuay";1;62;999;10;82;1;1;"Noviembre";2021;999;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990100082;10162999010008201;1016299901000820101
+"Azuay";1;62;999;11;55;1;1;"Enero";2021;71;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990110055;10162999011005501;1016299901100550101
+"Azuay";1;62;999;11;72;1;1;"Septiembre";2022;78;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990110072;10162999011007201;1016299901100720101
+"Azuay";1;62;999;12;52;1;1;"Junio";2020;54;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990120052;10162999012005201;1016299901200520101
+"Azuay";1;62;999;12;69;1;1;"Febrero";2022;57;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990120069;10162999012006901;1016299901200690101
+"Azuay";1;62;999;13;65;1;1;"Marzo";2022;81;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990130065;10162999013006501;1016299901300650101
+"Azuay";1;62;999;14;6;1;1;"Junio";2020;90;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990140006;10162999014000601;1016299901400060101
+"Azuay";1;62;999;14;85;1;1;"Mayo";2022;62;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990140085;10162999014008501;1016299901400850101
+"Azuay";1;62;999;15;9;1;1;"Mayo";2022;71;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990150009;10162999015000901;1016299901500090101
+"Azuay";1;62;999;15;99;1;1;"Noviembre";2020;87;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990150099;10162999015009901;1016299901500990101
+"Azuay";1;62;999;16;12;1;1;"Septiembre";2020;102;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990160012;10162999016001201;1016299901600120101
+"Azuay";1;62;999;16;49;1;1;"Noviembre";2021;92;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990160049;10162999016004901;1016299901600490101
+"Azuay";1;62;999;16;52;1;1;"Agosto";2021;57;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990160052;10162999016005201;1016299901600520101
+"Azuay";1;62;999;18;30;1;1;"Enero";2020;2;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990180030;10162999018003001;1016299901800300101
+"Azuay";1;62;999;18;35;1;1;"Marzo";2020;81;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990180035;10162999018003501;1016299901800350101
+"Azuay";1;62;999;19;15;1;1;"Junio";2022;0;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990190015;10162999019001501;1016299901900150101
+"Azuay";1;62;999;19;76;1;1;"Marzo";2020;92;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990190076;10162999019007601;1016299901900760101
+"Azuay";1;62;999;20;25;1;1;"Marzo";2020;94;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990200025;10162999020002501;1016299902000250101
+"Azuay";1;62;999;20;37;1;1;"Enero";2020;93;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990200037;10162999020003701;1016299902000370101
+"Azuay";1;62;999;21;13;1;1;"Septiembre";2022;43;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990210013;10162999021001301;1016299902100130101
+"Azuay";1;62;999;21;29;1;1;"Mayo";2021;70;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990210029;10162999021002901;1016299902100290101
+"Azuay";1;62;999;21;91;1;1;"Marzo";2020;88;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990210091;10162999021009101;1016299902100910101
+"Azuay";1;62;999;21;92;1;1;"Octubre";2022;68;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990210092;10162999021009201;1016299902100920101
+"Azuay";1;62;999;22;10;1;1;"Septiembre";2021;63;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990220010;10162999022001001;1016299902200100101
+"Azuay";1;62;999;22;18;1;1;"Marzo";2022;63;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990220018;10162999022001801;1016299902200180101
+"Azuay";1;62;999;24;9;1;1;"Junio";2021;65;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990240009;10162999024000901;1016299902400090101
+"Azuay";1;62;999;24;10;1;1;"Julio";2021;65;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990240010;10162999024001001;1016299902400100101
+"Azuay";1;62;999;25;22;1;1;"Julio";2022;102;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990250022;10162999025002201;1016299902500220101
+"Azuay";1;62;999;25;66;1;1;"Febrero";2020;81;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990250066;10162999025006601;1016299902500660101
+"Azuay";1;62;999;26;68;1;1;"Marzo";2022;91;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990260068;10162999026006801;1016299902600680101
+"Azuay";1;62;999;27;53;1;1;"Marzo";2022;80;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990270053;10162999027005301;1016299902700530101
+"Azuay";1;62;999;28;58;1;1;"Agosto";2022;55;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990280058;10162999028005801;1016299902800580101
+"Azuay";1;62;999;28;59;1;1;"Agosto";2022;55;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990280059;10162999028005901;1016299902800590101
+"Azuay";1;62;999;28;67;1;1;"Mayo";2021;69;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990280067;10162999028006701;1016299902800670101
+"Azuay";1;62;999;29;53;1;1;"Mayo";2021;69;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990290053;10162999029005301;1016299902900530101
+"Azuay";1;62;999;29;59;1;1;"Junio";2021;101;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990290059;10162999029005901;1016299902900590101
+"Azuay";1;62;999;29;78;1;1;"Abril";2021;57;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990290078;10162999029007801;1016299902900780101
+"Azuay";1;62;999;30;73;1;1;"Agosto";2022;87;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990300073;10162999030007301;1016299903000730101
+"Azuay";1;62;999;31;45;1;1;"Mayo";2020;999;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990310045;10162999031004501;1016299903100450101
+"Azuay";1;62;999;32;1;1;1;"Agosto";2021;69;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990320001;10162999032000101;1016299903200010101
+"Azuay";1;62;999;32;30;1;1;"Noviembre";2020;999;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990320030;10162999032003001;1016299903200300101
+"Azuay";1;62;999;33;46;1;1;"Abril";2020;78;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990330046;10162999033004601;1016299903300460101
+"Azuay";1;62;999;34;29;1;1;"Septiembre";2020;24;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990340029;10162999034002901;1016299903400290101
+"Azuay";1;62;999;34;68;1;1;"Junio";2022;86;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990340068;10162999034006801;1016299903400680101
+"Azuay";1;62;999;34;71;1;1;"Noviembre";2021;83;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990340071;10162999034007101;1016299903400710101
+"Azuay";1;62;999;35;51;1;1;"Octubre";2020;92;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990350051;10162999035005101;1016299903500510101
+"Azuay";1;62;999;35;52;1;1;"Octubre";2021;37;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990350052;10162999035005201;1016299903500520101
+"Azuay";1;62;999;35;89;1;1;"Febrero";2021;93;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990350089;10162999035008901;1016299903500890101
+"Azuay";1;62;999;36;2;1;1;"Enero";2021;97;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990360002;10162999036000201;1016299903600020101
+"Azuay";1;62;999;36;43;1;1;"Junio";2022;57;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990360043;10162999036004301;1016299903600430101
+"Azuay";1;62;999;36;60;1;1;"Marzo";2022;63;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990360060;10162999036006001;1016299903600600101
+"Azuay";1;62;999;36;66;1;1;"Marzo";2022;63;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990360066;10162999036006601;1016299903600660101
+"Azuay";1;62;999;36;68;1;1;"Noviembre";2021;86;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990360068;10162999036006801;1016299903600680101
+"Azuay";1;62;999;36;81;1;1;"Enero";2020;18;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990360081;10162999036008101;1016299903600810101
+"Azuay";1;62;999;37;65;1;1;"Mayo";2022;95;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990370065;10162999037006501;1016299903700650101
+"Azuay";1;62;999;37;108;1;1;"Abril";2021;26;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990370108;10162999037010801;1016299903701080101
+"Azuay";1;62;999;38;19;1;1;"Septiembre";2022;82;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990380019;10162999038001901;1016299903800190101
+"Azuay";1;62;999;39;57;1;1;"Mayo";2020;90;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990390057;10162999039005701;1016299903900570101
+"Azuay";1;62;999;40;33;1;1;"Marzo";2020;65;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990400033;10162999040003301;1016299904000330101
+"Azuay";1;62;999;42;12;1;1;"Marzo";2021;71;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990420012;10162999042001201;1016299904200120101
+"Azuay";1;62;999;43;38;1;1;"Agosto";2020;99;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990430038;10162999043003801;1016299904300380101
+"Azuay";1;62;999;43;78;1;1;"Febrero";2022;65;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990430078;10162999043007801;1016299904300780101
+"Azuay";1;62;999;44;38;1;1;"Octubre";2020;80;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990440038;10162999044003801;1016299904400380101
+"Azuay";1;62;999;44;90;1;1;"Marzo";2020;95;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990440090;10162999044009001;1016299904400900101
+"Azuay";1;62;999;44;103;1;1;"Enero";2020;81;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990440103;10162999044010301;1016299904401030101
+"Azuay";1;62;999;44;105;1;1;"Enero";2022;36;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990440105;10162999044010501;1016299904401050101
+"Azuay";1;62;999;45;23;1;1;"Enero";2022;84;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990450023;10162999045002301;1016299904500230101
+"Azuay";1;62;999;45;55;1;1;"Febrero";2022;77;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990450055;10162999045005501;1016299904500550101
+"Azuay";1;62;999;46;43;1;1;"Octubre";2022;80;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990460043;10162999046004301;1016299904600430101
+"Azuay";1;62;999;47;14;1;1;"Septiembre";2022;81;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990470014;10162999047001401;1016299904700140101
+"Azuay";1;62;999;47;53;1;1;"Diciembre";2020;93;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990470053;10162999047005301;1016299904700530101
+"Azuay";1;62;999;48;24;1;1;"Diciembre";2022;70;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990480024;10162999048002401;1016299904800240101
+"Azuay";1;62;999;48;25;1;1;"Marzo";2020;74;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990480025;10162999048002501;1016299904800250101
+"Azuay";1;62;999;48;30;1;1;"Enero";2020;79;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990480030;10162999048003001;1016299904800300101
+"Azuay";1;62;999;48;84;1;1;"Noviembre";2020;0;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990480084;10162999048008401;1016299904800840101
+"Azuay";1;62;999;49;16;1;1;"Febrero";2021;93;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990490016;10162999049001601;1016299904900160101
+"Azuay";1;62;999;49;68;1;1;"Diciembre";2020;74;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990490068;10162999049006801;1016299904900680101
+"Azuay";1;62;999;49;91;1;1;"Julio";2021;83;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990490091;10162999049009101;1016299904900910101
+"Azuay";1;62;999;50;26;1;1;"Enero";2021;51;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990500026;10162999050002601;1016299905000260101
+"Azuay";1;62;999;50;60;1;1;"Junio";2020;72;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990500060;10162999050006001;1016299905000600101
+"Azuay";1;62;999;51;37;1;1;"Octubre";2022;92;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990510037;10162999051003701;1016299905100370101
+"Azuay";1;62;999;51;64;1;1;"Febrero";2020;61;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990510064;10162999051006401;1016299905100640101
+"Azuay";1;62;999;51;84;1;1;"Junio";2021;87;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990510084;10162999051008401;1016299905100840101
+"Azuay";1;62;999;7;47;1;1;"Noviembre";2020;10;"Mujer";"No";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990070047;10162999007004701;1016299900700470101
+"Azuay";1;62;999;7;52;1;1;"Julio";2022;37;"Mujer";"No";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990070052;10162999007005201;1016299900700520101
+"Azuay";1;62;999;20;73;1;1;"Abril";2022;16;"Mujer";"No";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990200073;10162999020007301;1016299902000730101
+"Azuay";1;62;999;26;19;1;1;"Abril";2022;16;"Mujer";"No";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990260019;10162999026001901;1016299902600190101
+"Azuay";1;62;999;32;18;1;1;"Octubre";2020;34;"Mujer";"No";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990320018;10162999032001801;1016299903200180101
+"Azuay";1;62;999;36;77;1;1;"Marzo";2020;48;"Mujer";"No";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990360077;10162999036007701;1016299903600770101
+"Azuay";1;62;999;41;23;1;1;"Julio";2021;43;"Mujer";"No";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990410023;10162999041002301;1016299904100230101
+"Azuay";1;62;999;51;26;1;1;"Marzo";2021;13;"Mujer";"No";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990510026;10162999051002601;1016299905100260101
+"Azuay";1;62;999;2;13;1;1;"Junio";2021;87;"Mujer";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101629990020013;10162999002001301;1016299900200130101
+"Azuay";1;62;999;2;28;1;1;"Mayo";2020;2;"Mujer";"";"Se ignora";"Area rural";"Cuenca";"Ricaurte";101629990020028;10162999002002801;1016299900200280101
+"Azuay";1;62;999;3;63;1;1;"Agosto";2020;92;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990030063;10162999003006301;1016299900300630101
+"Azuay";1;62;999;5;47;1;1;"Enero";2021;84;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990050047;10162999005004701;1016299900500470101
+"Azuay";1;62;999;6;4;1;1;"Marzo";2020;62;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101629990060004;10162999006000401;1016299900600040101
+"Azuay";1;62;999;6;12;1;1;"Diciembre";2020;65;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990060012;10162999006001201;1016299900600120101
+"Azuay";1;62;999;6;76;1;1;"Abril";2020;58;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101629990060076;10162999006007601;1016299900600760101
+"Azuay";1;62;999;7;44;1;1;"Julio";2022;27;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101629990070044;10162999007004401;1016299900700440101
+"Azuay";1;62;999;7;80;1;1;"Mayo";2022;33;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101629990070080;10162999007008001;1016299900700800101
+"Azuay";1;62;999;7;82;1;1;"Agosto";2021;55;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990070082;10162999007008201;1016299900700820101
+"Azuay";1;62;999;7;93;1;1;"Agosto";2022;90;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990070093;10162999007009301;1016299900700930101
+"Azuay";1;62;999;9;4;1;1;"Julio";2021;38;"Mujer";"No";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990090004;10162999009000401;1016299900900040101
+"Azuay";1;62;999;10;69;1;1;"Septiembre";2021;64;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990100069;10162999010006901;1016299901000690101
+"Azuay";1;62;999;10;77;1;1;"Enero";2021;7;"Mujer";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101629990100077;10162999010007701;1016299901000770101
+"Azuay";1;62;999;10;99;1;1;"Octubre";2020;25;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101629990100099;10162999010009901;1016299901000990101
+"Azuay";1;62;999;10;121;1;1;"Octubre";2021;999;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990100121;10162999010012101;1016299901001210101
+"Azuay";1;62;999;13;12;1;1;"Febrero";2020;52;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990130012;10162999013001201;1016299901300120101
+"Azuay";1;62;999;13;29;1;1;"Marzo";2020;40;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990130029;10162999013002901;1016299901300290101
+"Azuay";1;62;999;13;62;1;1;"Julio";2020;83;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990130062;10162999013006201;1016299901300620101
+"Azuay";1;62;999;13;92;1;1;"Noviembre";2021;35;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101629990130092;10162999013009201;1016299901300920101
+"Azuay";1;62;999;13;95;2;1;"Agosto";2020;58;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990130095;10162999013009502;1016299901300950201
+"Azuay";1;62;999;15;87;1;1;"Noviembre";2021;30;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990150087;10162999015008701;1016299901500870101
+"Azuay";1;62;999;16;4;1;1;"Abril";2021;80;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990160004;10162999016000401;1016299901600040101
+"Azuay";1;62;999;19;67;1;1;"Julio";2022;49;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990190067;10162999019006701;1016299901900670101
+"Azuay";1;62;999;22;7;1;1;"Agosto";2021;92;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990220007;10162999022000701;1016299902200070101
+"Azuay";1;62;999;24;3;1;1;"Diciembre";2021;999;"Hombre";"";"Se ignora";"Area rural";"Cuenca";"Ricaurte";101629990240003;10162999024000301;1016299902400030101
+"Azuay";1;62;999;24;82;1;1;"Marzo";2021;78;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990240082;10162999024008201;1016299902400820101
+"Azuay";1;62;999;25;4;1;1;"Octubre";2020;89;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990250004;10162999025000401;1016299902500040101
+"Azuay";1;62;999;25;26;1;1;"Agosto";2020;92;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990250026;10162999025002601;1016299902500260101
+"Azuay";1;62;999;25;27;1;1;"Agosto";2020;90;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990250027;10162999025002701;1016299902500270101
+"Azuay";1;62;999;25;30;1;1;"Octubre";2020;80;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990250030;10162999025003001;1016299902500300101
+"Azuay";1;62;999;25;32;1;1;"Abril";2020;71;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990250032;10162999025003201;1016299902500320101
+"Azuay";1;62;999;25;46;1;1;"Agosto";2020;92;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990250046;10162999025004601;1016299902500460101
+"Azuay";1;62;999;26;26;1;1;"Junio";2021;79;"Hombre";"";"Se ignora";"Area rural";"Cuenca";"Ricaurte";101629990260026;10162999026002601;1016299902600260101
+"Azuay";1;62;999;26;58;1;1;"Septiembre";2021;31;"Hombre";"";"Se ignora";"Area rural";"Cuenca";"Ricaurte";101629990260058;10162999026005801;1016299902600580101
+"Azuay";1;62;999;27;61;1;1;"Julio";2020;63;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990270061;10162999027006101;1016299902700610101
+"Azuay";1;62;999;28;41;1;1;"Noviembre";2020;76;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990280041;10162999028004101;1016299902800410101
+"Azuay";1;62;999;28;55;1;1;"Enero";2022;95;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990280055;10162999028005501;1016299902800550101
+"Azuay";1;62;999;29;64;1;1;"Junio";2020;75;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990290064;10162999029006401;1016299902900640101
+"Azuay";1;62;999;30;90;1;1;"Enero";2020;92;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990300090;10162999030009001;1016299903000900101
+"Azuay";1;62;999;32;5;1;1;"Junio";2020;87;"Hombre";"";"Se ignora";"Area rural";"Cuenca";"Ricaurte";101629990320005;10162999032000501;1016299903200050101
+"Azuay";1;62;999;34;78;1;1;"Julio";2021;67;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990340078;10162999034007801;1016299903400780101
+"Azuay";1;62;999;35;91;1;1;"Septiembre";2020;57;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101629990350091;10162999035009101;1016299903500910101
+"Azuay";1;62;999;37;43;1;1;"Noviembre";2020;80;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990370043;10162999037004301;1016299903700430101
+"Azuay";1;62;999;37;46;1;1;"Septiembre";2020;80;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990370046;10162999037004601;1016299903700460101
+"Azuay";1;62;999;38;33;1;1;"Enero";2021;80;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990380033;10162999038003301;1016299903800330101
+"Azuay";1;62;999;38;80;1;1;"Enero";2021;66;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990380080;10162999038008001;1016299903800800101
+"Azuay";1;62;999;40;44;1;1;"Noviembre";2020;59;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990400044;10162999040004401;1016299904000440101
+"Azuay";1;62;999;40;76;1;1;"Diciembre";2021;55;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101629990400076;10162999040007601;1016299904000760101
+"Azuay";1;62;999;41;5;1;1;"Octubre";2020;57;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990410005;10162999041000501;1016299904100050101
+"Azuay";1;62;999;41;111;1;1;"Marzo";2022;60;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990410111;10162999041011101;1016299904101110101
+"Azuay";1;62;999;42;37;1;1;"Abril";2020;44;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990420037;10162999042003701;1016299904200370101
+"Azuay";1;62;999;42;49;1;1;"Febrero";2021;55;"Mujer";"";"Se ignora";"Area rural";"Cuenca";"Ricaurte";101629990420049;10162999042004901;1016299904200490101
+"Azuay";1;62;999;42;78;1;1;"Enero";2020;105;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990420078;10162999042007801;1016299904200780101
+"Azuay";1;62;999;43;20;1;1;"Mayo";2021;84;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990430020;10162999043002001;1016299904300200101
+"Azuay";1;62;999;44;5;1;1;"Marzo";2020;55;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990440005;10162999044000501;1016299904400050101
+"Azuay";1;62;999;44;47;1;1;"Agosto";2020;57;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101629990440047;10162999044004701;1016299904400470101
+"Azuay";1;62;999;45;4;1;1;"Abril";2022;999;"Mujer";"";"Se ignora";"Area rural";"Cuenca";"Ricaurte";101629990450004;10162999045000401;1016299904500040101
+"Azuay";1;62;999;46;64;1;1;"Febrero";2021;15;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101629990460064;10162999046006401;1016299904600640101
+"Azuay";1;62;999;47;28;1;1;"Diciembre";2021;31;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990470028;10162999047002801;1016299904700280101
+"Azuay";1;62;999;48;64;1;1;"Julio";2020;65;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990480064;10162999048006401;1016299904800640101
+"Azuay";1;62;999;49;28;1;1;"Diciembre";2020;73;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990490028;10162999049002801;1016299904900280101
+"Azuay";1;62;999;51;12;1;1;"Julio";2020;77;"Mujer";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101629990510012;10162999051001201;1016299905100120101
+"Azuay";1;62;1;3;7;1;1;"Agosto";2022;47;"Mujer";"No";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101620010030007;10162001003000701;1016200100300070101
+"Azuay";1;62;1;3;93;1;1;"Agosto";2022;47;"Mujer";"No";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101620010030093;10162001003009301;1016200100300930101
+"Azuay";1;62;1;3;120;1;1;"Abril";2021;69;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620010030120;10162001003012001;1016200100301200101
+"Azuay";1;62;1;4;67;1;1;"Agosto";2020;91;"Hombre";"";"Se ignora";"Area rural";"Cuenca";"Ricaurte";101620010040067;10162001004006701;1016200100400670101
+"Azuay";1;62;1;4;162;1;1;"Marzo";2020;40;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620010040162;10162001004016201;1016200100401620101
+"Azuay";1;62;1;6;160;1;1;"Enero";2021;74;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620010060160;10162001006016001;1016200100601600101
+"Azuay";1;62;1;6;234;1;1;"Diciembre";2021;94;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620010060234;10162001006023401;1016200100602340101
+"Azuay";1;62;1;6;242;1;1;"Abril";2021;78;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620010060242;10162001006024201;1016200100602420101
+"Azuay";1;62;1;7;67;1;1;"Enero";2020;76;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620010070067;10162001007006701;1016200100700670101
+"Azuay";1;62;2;1;37;1;1;"Mayo";2022;98;"Hombre";"";"Se ignora";"Area rural";"Cuenca";"Ricaurte";101620020010037;10162002001003701;1016200200100370101
+"Azuay";1;62;2;1;58;1;1;"Febrero";2021;62;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620020010058;10162002001005801;1016200200100580101
+"Azuay";1;62;2;2;50;1;1;"Julio";2021;100;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620020020050;10162002002005001;1016200200200500101
+"Azuay";1;62;2;2;98;1;1;"Agosto";2020;65;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620020020098;10162002002009801;1016200200200980101
+"Azuay";1;62;2;2;106;1;1;"Diciembre";2020;65;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620020020106;10162002002010601;1016200200201060101
+"Azuay";1;62;2;3;15;1;1;"Enero";2022;90;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620020030015;10162002003001501;1016200200300150101
+"Azuay";1;62;2;6;109;1;1;"Diciembre";2020;66;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620020060109;10162002006010901;1016200200601090101
+"Azuay";1;62;2;7;42;1;1;"Septiembre";2020;49;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101620020070042;10162002007004201;1016200200700420101
+"Azuay";1;62;2;7;82;1;1;"Mayo";2021;51;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620020070082;10162002007008201;1016200200700820101
+"Azuay";1;62;2;8;44;1;1;"Abril";2020;21;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101620020080044;10162002008004401;1016200200800440101
+"Azuay";1;62;3;1;8;1;1;"Junio";2021;38;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620030010008;10162003001000801;1016200300100080101
+"Azuay";1;62;3;1;109;1;1;"Abril";2022;81;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620030010109;10162003001010901;1016200300101090101
+"Azuay";1;62;3;2;85;1;1;"Enero";2021;89;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620030020085;10162003002008501;1016200300200850101
+"Azuay";1;62;3;4;25;1;1;"Enero";2020;22;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101620030040025;10162003004002501;1016200300400250101
+"Azuay";1;62;3;5;58;1;1;"Marzo";2020;87;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620030050058;10162003005005801;1016200300500580101
+"Azuay";1;62;3;5;86;1;1;"Noviembre";2021;73;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620030050086;10162003005008601;1016200300500860101
+"Azuay";1;62;3;5;92;1;1;"Noviembre";2020;86;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620030050092;10162003005009201;1016200300500920101
+"Azuay";1;62;3;6;40;1;1;"Agosto";2022;56;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101620030060040;10162003006004001;1016200300600400101
+"Azuay";1;62;3;6;55;1;1;"Junio";2021;1;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101620030060055;10162003006005501;1016200300600550101
+"Azuay";1;62;3;8;28;1;1;"Agosto";2021;101;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620030080028;10162003008002801;1016200300800280101
+"Azuay";1;62;4;3;35;1;1;"Agosto";2020;62;"Mujer";"";"Se ignora";"Area rural";"Cuenca";"Ricaurte";101620040030035;10162004003003501;1016200400300350101
+"Azuay";1;62;4;4;87;1;1;"Enero";2020;0;"Hombre";"";"Se ignora";"Area rural";"Cuenca";"Ricaurte";101620040040087;10162004004008701;1016200400400870101
+"Azuay";1;62;4;5;1;1;1;"Agosto";2020;57;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620040050001;10162004005000101;1016200400500010101
+"Azuay";1;62;4;5;67;1;1;"Mayo";2021;72;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620040050067;10162004005006701;1016200400500670101
+"Azuay";1;62;4;5;221;1;1;"Noviembre";2020;59;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620040050221;10162004005022101;1016200400502210101
+"Azuay";1;62;4;6;33;1;1;"Abril";2021;53;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620040060033;10162004006003301;1016200400600330101
+"Azuay";1;62;4;6;67;1;1;"Abril";2021;59;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620040060067;10162004006006701;1016200400600670101
+"Azuay";1;62;4;6;87;1;1;"Noviembre";2021;57;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620040060087;10162004006008701;1016200400600870101
+"Azuay";1;62;4;6;88;1;1;"Octubre";2020;59;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620040060088;10162004006008801;1016200400600880101
+"Azuay";1;62;4;7;14;1;1;"Agosto";2020;41;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620040070014;10162004007001401;1016200400700140101
+"Azuay";1;62;4;7;36;1;1;"Diciembre";2020;74;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620040070036;10162004007003601;1016200400700360101
+"Azuay";1;62;4;7;83;1;1;"Mayo";2020;52;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101620040070083;10162004007008301;1016200400700830101
+"Azuay";1;62;4;7;107;1;1;"Febrero";2021;52;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620040070107;10162004007010701;1016200400701070101
+"Azuay";1;62;5;1;41;1;1;"Mayo";2020;62;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620050010041;10162005001004101;1016200500100410101
+"Azuay";1;62;5;1;51;1;1;"Septiembre";2020;45;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620050010051;10162005001005101;1016200500100510101
+"Azuay";1;62;5;1;82;1;1;"Julio";2020;62;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620050010082;10162005001008201;1016200500100820101
+"Azuay";1;62;5;2;56;1;1;"Julio";2020;20;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101620050020056;10162005002005601;1016200500200560101
+"Azuay";1;62;5;3;3;1;1;"Julio";2020;57;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620050030003;10162005003000301;1016200500300030101
+"Azuay";1;62;5;4;15;1;1;"Enero";2021;27;"Hombre";"";"Accidente, suicidio o asesinato";"Area rural";"Cuenca";"Ricaurte";101620050040015;10162005004001501;1016200500400150101
+"Azuay";1;62;5;4;48;1;1;"Febrero";2022;84;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620050040048;10162005004004801;1016200500400480101
+"Azuay";1;62;5;4;84;1;1;"Enero";2021;66;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620050040084;10162005004008401;1016200500400840101
+"Azuay";1;62;5;7;89;1;1;"Mayo";2021;70;"Mujer";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620050070089;10162005007008901;1016200500700890101
+"Azuay";1;62;3;8;2;2;1;"Octubre";2021;75;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030080002;10162003008000202;1016200300800020201
+"Azuay";1;62;2;6;111;1;1;"Marzo";2021;40;"Mujer";"No";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020060111;10162002006011101;1016200200601110101
+"Azuay";1;62;3;1;116;1;1;"Abril";2021;21;"Mujer";"No";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030010116;10162003001011601;1016200300101160101
+"Azuay";1;62;5;5;29;1;1;"Marzo";2021;50;"Mujer";"No";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620050050029;10162005005002901;1016200500500290101
+"Azuay";1;62;1;2;59;1;1;"Septiembre";2021;53;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010020059;10162001002005901;1016200100200590101
+"Azuay";1;62;1;2;79;1;1;"Octubre";2020;74;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010020079;10162001002007901;1016200100200790101
+"Azuay";1;62;1;2;82;1;1;"Mayo";2021;77;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010020082;10162001002008201;1016200100200820101
+"Azuay";1;62;1;2;95;1;1;"Marzo";2022;76;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010020095;10162001002009501;1016200100200950101
+"Azuay";1;62;1;2;100;1;1;"Noviembre";2021;98;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010020100;10162001002010001;1016200100201000101
+"Azuay";1;62;1;3;110;1;1;"Febrero";2020;0;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010030110;10162001003011001;1016200100301100101
+"Azuay";1;62;1;3;113;1;1;"Enero";2021;88;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010030113;10162001003011301;1016200100301130101
+"Azuay";1;62;1;3;117;1;1;"Marzo";2021;63;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010030117;10162001003011701;1016200100301170101
+"Azuay";1;62;1;3;118;1;1;"Mayo";2022;92;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010030118;10162001003011801;1016200100301180101
+"Azuay";1;62;1;4;82;1;1;"Marzo";2020;92;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010040082;10162001004008201;1016200100400820101
+"Azuay";1;62;1;5;38;1;1;"Marzo";2021;90;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010050038;10162001005003801;1016200100500380101
+"Azuay";1;62;1;6;39;1;1;"Enero";2020;70;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010060039;10162001006003901;1016200100600390101
+"Azuay";1;62;1;7;81;1;1;"Mayo";2020;61;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010070081;10162001007008101;1016200100700810101
+"Azuay";1;62;1;7;84;1;1;"Diciembre";2022;58;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010070084;10162001007008401;1016200100700840101
+"Azuay";1;62;2;1;1;1;1;"Diciembre";2022;71;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020010001;10162002001000101;1016200200100010101
+"Azuay";1;62;2;1;26;1;1;"Marzo";2020;83;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020010026;10162002001002601;1016200200100260101
+"Azuay";1;62;2;1;88;1;1;"Enero";2021;85;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020010088;10162002001008801;1016200200100880101
+"Azuay";1;62;2;2;58;1;1;"Mayo";2020;86;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020020058;10162002002005801;1016200200200580101
+"Azuay";1;62;2;2;139;1;1;"Mayo";2022;89;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020020139;10162002002013901;1016200200201390101
+"Azuay";1;62;2;3;16;1;1;"Enero";2022;90;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020030016;10162002003001601;1016200200300160101
+"Azuay";1;62;2;3;48;1;1;"Diciembre";2022;66;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020030048;10162002003004801;1016200200300480101
+"Azuay";1;62;2;3;49;1;1;"Abril";2021;0;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020030049;10162002003004901;1016200200300490101
+"Azuay";1;62;2;3;59;1;1;"Mayo";2021;68;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020030059;10162002003005901;1016200200300590101
+"Azuay";1;62;2;3;70;1;1;"Noviembre";2021;52;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020030070;10162002003007001;1016200200300700101
+"Azuay";1;62;2;4;33;1;1;"Febrero";2022;51;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020040033;10162002004003301;1016200200400330101
+"Azuay";1;62;2;4;49;1;1;"Noviembre";2020;56;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020040049;10162002004004901;1016200200400490101
+"Azuay";1;62;2;4;100;1;1;"Abril";2021;42;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020040100;10162002004010001;1016200200401000101
+"Azuay";1;62;2;4;106;1;1;"Octubre";2021;63;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020040106;10162002004010601;1016200200401060101
+"Azuay";1;62;2;5;30;1;1;"Abril";2020;92;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020050030;10162002005003001;1016200200500300101
+"Azuay";1;62;2;5;31;1;1;"Marzo";2020;92;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020050031;10162002005003101;1016200200500310101
+"Azuay";1;62;2;5;71;1;1;"Agosto";2022;61;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020050071;10162002005007101;1016200200500710101
+"Azuay";1;62;2;5;89;1;1;"Julio";2021;63;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020050089;10162002005008901;1016200200500890101
+"Azuay";1;62;2;7;74;1;1;"Mayo";2021;96;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020070074;10162002007007401;1016200200700740101
+"Azuay";1;62;2;7;77;1;1;"Diciembre";2021;64;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020070077;10162002007007701;1016200200700770101
+"Azuay";1;62;2;7;85;1;1;"Febrero";2022;87;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020070085;10162002007008501;1016200200700850101
+"Azuay";1;62;2;7;122;1;1;"Julio";2022;0;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020070122;10162002007012201;1016200200701220101
+"Azuay";1;62;2;7;129;1;1;"Octubre";2022;92;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020070129;10162002007012901;1016200200701290101
+"Azuay";1;62;2;7;152;1;1;"Enero";2020;78;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020070152;10162002007015201;1016200200701520101
+"Azuay";1;62;2;7;176;1;1;"Octubre";2021;93;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020070176;10162002007017601;1016200200701760101
+"Azuay";1;62;2;8;20;1;1;"Marzo";2021;96;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020080020;10162002008002001;1016200200800200101
+"Azuay";1;62;3;1;1;1;1;"Diciembre";2021;60;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030010001;10162003001000101;1016200300100010101
+"Azuay";1;62;3;1;12;1;1;"Febrero";2020;91;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030010012;10162003001001201;1016200300100120101
+"Azuay";1;62;3;2;24;1;1;"Marzo";2022;75;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030020024;10162003002002401;1016200300200240101
+"Azuay";1;62;3;2;39;1;1;"Abril";2022;93;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030020039;10162003002003901;1016200300200390101
+"Azuay";1;62;3;3;28;1;1;"Febrero";2021;54;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030030028;10162003003002801;1016200300300280101
+"Azuay";1;62;3;3;49;1;1;"Noviembre";2021;74;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030030049;10162003003004901;1016200300300490101
+"Azuay";1;62;3;4;24;1;1;"Septiembre";2022;100;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030040024;10162003004002401;1016200300400240101
+"Azuay";1;62;3;5;5;1;1;"Febrero";2021;999;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030050005;10162003005000501;1016200300500050101
+"Azuay";1;62;3;5;19;1;1;"Agosto";2021;93;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030050019;10162003005001901;1016200300500190101
+"Azuay";1;62;3;5;23;1;1;"Agosto";2021;93;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030050023;10162003005002301;1016200300500230101
+"Azuay";1;62;3;5;43;1;1;"Mayo";2021;96;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030050043;10162003005004301;1016200300500430101
+"Azuay";1;62;3;6;50;1;1;"Octubre";2022;96;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030060050;10162003006005001;1016200300600500101
+"Azuay";1;62;3;6;80;1;1;"Julio";2020;67;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030060080;10162003006008001;1016200300600800101
+"Azuay";1;62;3;6;131;1;1;"Septiembre";2021;50;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030060131;10162003006013101;1016200300601310101
+"Azuay";1;62;3;7;108;1;1;"Enero";2020;999;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030070108;10162003007010801;1016200300701080101
+"Azuay";1;62;3;7;123;1;1;"Noviembre";2021;42;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030070123;10162003007012301;1016200300701230101
+"Azuay";1;62;3;7;128;1;1;"Agosto";2020;61;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030070128;10162003007012801;1016200300701280101
+"Azuay";1;62;3;8;2;1;1;"Agosto";2021;75;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030080002;10162003008000201;1016200300800020101
+"Azuay";1;62;3;8;76;1;1;"Junio";2020;79;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030080076;10162003008007601;1016200300800760101
+"Azuay";1;62;3;8;93;1;1;"Agosto";2020;76;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620030080093;10162003008009301;1016200300800930101
+"Azuay";1;62;4;1;97;1;1;"Mayo";2022;75;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040010097;10162004001009701;1016200400100970101
+"Azuay";1;62;4;1;101;1;1;"Mayo";2022;74;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040010101;10162004001010101;1016200400101010101
+"Azuay";1;62;4;2;70;1;1;"Octubre";2022;62;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040020070;10162004002007001;1016200400200700101
+"Azuay";1;62;4;3;5;1;1;"Octubre";2020;97;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040030005;10162004003000501;1016200400300050101
+"Azuay";1;62;4;3;50;1;1;"Agosto";2020;999;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040030050;10162004003005001;1016200400300500101
+"Azuay";1;62;4;3;57;1;1;"Agosto";2021;89;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040030057;10162004003005701;1016200400300570101
+"Azuay";1;62;4;4;29;1;1;"Julio";2021;100;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040040029;10162004004002901;1016200400400290101
+"Azuay";1;62;4;4;90;1;1;"Abril";2020;91;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040040090;10162004004009001;1016200400400900101
+"Azuay";1;62;4;4;106;1;1;"Febrero";2021;84;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040040106;10162004004010601;1016200400401060101
+"Azuay";1;62;4;4;144;1;1;"Enero";2021;80;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040040144;10162004004014401;1016200400401440101
+"Azuay";1;62;4;5;51;1;1;"Enero";2020;57;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040050051;10162004005005101;1016200400500510101
+"Azuay";1;62;4;5;133;1;1;"Septiembre";2022;89;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040050133;10162004005013301;1016200400501330101
+"Azuay";1;62;4;5;172;1;1;"Marzo";2021;74;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040050172;10162004005017201;1016200400501720101
+"Azuay";1;62;4;5;214;1;1;"Abril";2021;85;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040050214;10162004005021401;1016200400502140101
+"Azuay";1;62;4;6;22;1;1;"Noviembre";2020;80;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040060022;10162004006002201;1016200400600220101
+"Azuay";1;62;4;6;39;1;1;"Enero";2022;85;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040060039;10162004006003901;1016200400600390101
+"Azuay";1;62;4;6;135;1;1;"Enero";2022;73;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040060135;10162004006013501;1016200400601350101
+"Azuay";1;62;4;7;10;1;1;"Septiembre";2021;61;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040070010;10162004007001001;1016200400700100101
+"Azuay";1;62;4;7;21;1;1;"Abril";2021;92;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040070021;10162004007002101;1016200400700210101
+"Azuay";1;62;4;7;58;1;1;"Noviembre";2021;98;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040070058;10162004007005801;1016200400700580101
+"Azuay";1;62;4;7;74;1;1;"Julio";2022;65;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040070074;10162004007007401;1016200400700740101
+"Azuay";1;62;4;7;84;1;1;"Agosto";2022;83;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040070084;10162004007008401;1016200400700840101
+"Azuay";1;62;4;7;105;1;1;"Septiembre";2020;84;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040070105;10162004007010501;1016200400701050101
+"Azuay";1;62;4;7;109;1;1;"Noviembre";2022;66;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040070109;10162004007010901;1016200400701090101
+"Azuay";1;62;4;7;116;1;1;"Septiembre";2020;68;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040070116;10162004007011601;1016200400701160101
+"Azuay";1;62;5;1;13;1;1;"Noviembre";2020;99;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620050010013;10162005001001301;1016200500100130101
+"Azuay";1;62;5;1;147;1;1;"Julio";2021;92;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620050010147;10162005001014701;1016200500101470101
+"Azuay";1;62;5;1;176;1;1;"Marzo";2020;86;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620050010176;10162005001017601;1016200500101760101
+"Azuay";1;62;5;2;42;1;1;"Junio";2022;93;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620050020042;10162005002004201;1016200500200420101
+"Azuay";1;62;5;2;105;1;1;"Agosto";2022;11;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620050020105;10162005002010501;1016200500201050101
+"Azuay";1;62;5;2;130;1;1;"Julio";2021;66;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620050020130;10162005002013001;1016200500201300101
+"Azuay";1;62;5;4;38;1;1;"Mayo";2021;61;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620050040038;10162005004003801;1016200500400380101
+"Azuay";1;62;5;5;92;1;1;"Junio";2022;97;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620050050092;10162005005009201;1016200500500920101
+"Azuay";1;62;5;5;101;1;1;"Octubre";2020;69;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620050050101;10162005005010101;1016200500501010101
+"Azuay";1;62;5;6;67;1;1;"Agosto";2022;84;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620050060067;10162005006006701;1016200500600670101
+"Azuay";1;62;5;7;108;1;1;"Enero";2022;82;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620050070108;10162005007010801;1016200500701080101
+"Azuay";1;62;5;7;159;1;1;"Septiembre";2021;76;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620050070159;10162005007015901;1016200500701590101
+"Azuay";1;62;1;2;82;1;2;"Diciembre";2021;56;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620010020082;10162001002008201;1016200100200820102
+"Azuay";1;62;2;8;44;1;2;"Enero";2021;28;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020080044;10162002008004401;1016200200800440102
+"Azuay";1;62;2;8;44;1;3;"Septiembre";2021;86;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620020080044;10162002008004401;1016200200800440103
+"Azuay";1;62;4;5;221;1;2;"Octubre";2020;34;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101620040050221;10162004005022101;1016200400502210102
+"Azuay";1;62;4;5;221;1;3;"Octubre";2020;94;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101620040050221;10162004005022101;1016200400502210103
+"Azuay";1;62;999;1;4;1;2;"Junio";2021;98;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990010004;10162999001000401;1016299900100040102
+"Azuay";1;62;999;2;15;1;2;"Mayo";2021;86;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990020015;10162999002001501;1016299900200150102
+"Azuay";1;62;999;2;80;1;2;"Marzo";2020;41;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990020080;10162999002008001;1016299900200800102
+"Azuay";1;62;999;3;63;1;2;"Diciembre";2021;86;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990030063;10162999003006301;1016299900300630102
+"Azuay";1;62;999;22;10;1;2;"Agosto";2022;57;"Mujer";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990220010;10162999022001001;1016299902200100102
+"Azuay";1;62;999;25;27;1;2;"Agosto";2020;57;"Hombre";"";"COVID-19";"Area rural";"Cuenca";"Ricaurte";101629990250027;10162999025002701;1016299902500270102
+"Azuay";1;62;999;44;105;1;2;"Septiembre";2022;76;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990440105;10162999044010501;1016299904401050102
+"Azuay";1;62;999;48;30;1;2;"Marzo";2021;83;"Hombre";"";"Otros? (Ej: enfermedad, causa natural)";"Area rural";"Cuenca";"Ricaurte";101629990480030;10162999048003001;1016299904800300102
