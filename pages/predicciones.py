@@ -88,11 +88,11 @@ st.markdown(f"""
     <div style='display:flex; justify-content:center; gap:40px; margin-top: 20px; margin-bottom: 10px;'>
         <div class='box' style='width: 280px; text-align:center;'>
             <div class='box-title'>👥 POBLACIÓN ACTUAL</div>
-            <div style='font-size: 36px; font-weight: bold; color: #0A2540; margin-top: 10px;'>{poblacion[0]:,}</div>
+            <div style='font-size: 36px; font-weight: bold; color: #FFFF66; margin-top: 10px;'>{poblacion[0]:,}</div>
         </div>
         <div class='box' style='width: 280px; text-align:center;'>
             <div class='box-title'>📈 PROYECCIÓN 2035</div>
-            <div style='font-size: 36px; font-weight: bold; color: #0A2540; margin-top: 10px;'>{poblacion[-1]:,}</div>
+            <div style='font-size: 36px; font-weight: bold; color: #FFFF66; margin-top: 10px;'>{poblacion[-1]:,}</div>
         </div>
     </div>
 """, unsafe_allow_html=True)
