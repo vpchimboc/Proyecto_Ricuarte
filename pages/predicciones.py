@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import base64
@@ -24,7 +23,7 @@ def set_background(image_path):
     st.markdown(f"""
         <style>
         .stApp {{
-            background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+            background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), /* Mantener el degradado para contraste */
                         url("data:image/jpg;base64,{img_base64}") no-repeat center center fixed;
             background-size: cover;
         }}
@@ -43,10 +42,30 @@ def set_background(image_path):
             text-align: center;
             font-weight: bold;
         }}
+        /* Estilos para hacer el texto más visible */
+        h1, h2, h3, h4, h5, h6 {{
+            color: white !important; /* Texto blanco para títulos */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8) !important; /* Sombra para mejor contraste */
+        }}
+        .stMarkdown p, .stDataFrame, .stDataFrame th, .stDataFrame td {{
+            color: white !important; /* Color blanco para texto de párrafos y tablas */
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6) !important;
+        }}
+        .stMarkdown {{
+            color: white !important; /* Asegura que el texto general de markdown sea blanco */
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.6) !important;
+        }}
+        /* Asegurarse que el texto de los KPIs tenga el color correcto */
+        .box > div:last-child {{ /* Selecciona el último div dentro de .box (donde están los números de los KPIs) */
+            color: #FFFF66 !important; /* Usa el color amarillo vibrante */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8) !important; /* Agrega sombra para contraste */
+        }}
         </style>
     """, unsafe_allow_html=True)
 
 set_background("imagen principal.jpeg")
+
+# ... (El resto de tu código Streamlit permanece igual)
 
 # Botón volver al inicio
 st.markdown("""
@@ -100,7 +119,8 @@ st.markdown(f"""
 # Gráfico interactivo
 fig = px.line(df, x="Año", y="Población proyectada", markers=True,
               title="Proyección de crecimiento poblacional")
-fig.update_layout(title_x=0.5, plot_bgcolor='rgba(255,255,255,0)', paper_bgcolor='rgba(255,255,255,0)')
+fig.update_layout(title_x=0.5, plot_bgcolor='rgba(255,255,255,0)', paper_bgcolor='rgba(255,255,255,0)',
+                  font=dict(color="white")) # Color de la fuente del gráfico
 st.plotly_chart(fig, use_container_width=True)
 
 # Tabla
@@ -114,16 +134,18 @@ df_etario = pd.DataFrame({ 'Grupo': etarios.index, 'Porcentaje actual': etarios.
 df_etario['Proyectado 2035'] = (df_etario['Porcentaje actual'] * poblacion[-1]).astype(int)
 st.dataframe(df_etario)
 fig = px.bar(df_etario, x='Grupo', y='Proyectado 2035', title="Proyección población por grupo etario 2035")
-fig.update_layout(title_x=0.5, plot_bgcolor='rgba(255,255,255,0)', paper_bgcolor='rgba(255,255,255,0)')
+fig.update_layout(title_x=0.5, plot_bgcolor='rgba(255,255,255,0)', paper_bgcolor='rgba(255,255,255,0)',
+                  font=dict(color="white")) # Color de la fuente del gráfico
 st.plotly_chart(fig, use_container_width=True)
 
 # Alfabetismo
-st.markdown("## 🧠 Predicción de alfabetismo")
+st.markdown("## 🧠 Predicción de alfabetismo") # Este es el texto que quieres visible
 alfabetismo = poblacion_ricaurte['Condicion_analfabetismo'].value_counts(normalize=True)
 df_alf = pd.DataFrame({ 'Condición': alfabetismo.index, 'Proporción actual': alfabetismo.values })
 df_alf['Proyectado 2035'] = (df_alf['Proporción actual'] * poblacion[-1]).astype(int)
 fig = px.pie(df_alf, names='Condición', values='Proyectado 2035', title="Distribución de alfabetismo proyectada")
-fig.update_layout(title_x=0.5, plot_bgcolor='rgba(255,255,255,0)', paper_bgcolor='rgba(255,255,255,0)')
+fig.update_layout(title_x=0.5, plot_bgcolor='rgba(255,255,255,0)', paper_bgcolor='rgba(255,255,255,0)',
+                  font=dict(color="white")) # Color de la fuente del gráfico
 st.plotly_chart(fig, use_container_width=True)
 
 # Tecnología
@@ -136,5 +158,6 @@ for col in tecnologia:
         data_tec.append({'Tecnología': col.split('_')[-1], 'Condición': k.strip(), 'Porcentaje': v})
 df_tec = pd.DataFrame(data_tec)
 fig = px.bar(df_tec, x='Tecnología', y='Porcentaje', color='Condición', barmode='group', title="Acceso a tecnologías digitales")
-fig.update_layout(title_x=0.5, plot_bgcolor='rgba(255,255,255,0)', paper_bgcolor='rgba(255,255,255,0)')
+fig.update_layout(title_x=0.5, plot_bgcolor='rgba(255,255,255,0)', paper_bgcolor='rgba(255,255,255,0)',
+                  font=dict(color="white")) # Color de la fuente del gráfico
 st.plotly_chart(fig, use_container_width=True)
