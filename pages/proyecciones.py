@@ -49,7 +49,7 @@ def set_background(image_path):
 
 
 
-set_background("imagen principal.jpg")
+set_background("imagen principal.jpeg")
 
 # Botón volver al inicio
 st.markdown("""

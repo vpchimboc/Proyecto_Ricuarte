@@ -18,13 +18,13 @@ def load_image_as_base64(path):
         return base64.b64encode(img_file.read()).decode()
 
 # Cargar imágenes
-background_image = "imagen principal.jpg"
+background_image = "imagen principal.jpeg"
 logo_gad = "logo_gad.png"
 logo_tec = "logo.png"
 logo_fb = "logo_fb.png"
 logo_ig = "logo_ig.png"
 logo_tw = "logo_tw.png"
-
+#anterior
 # Fondo y estilos
 if os.path.exists(background_image):
     b64_bg = load_image_as_base64(background_image)
