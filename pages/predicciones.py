@@ -123,6 +123,7 @@ fig.update_layout(title_x=0.5, plot_bgcolor='rgba(255,255,255,0)', paper_bgcolor
                   font=dict(color="white")) # Color de la fuente del gráfico
 st.plotly_chart(fig, use_container_width=True)
 
+
 # Tabla
 st.markdown("#### Tabla de datos proyectados")
 st.dataframe(df, use_container_width=True)
